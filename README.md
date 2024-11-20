@@ -49,16 +49,7 @@ This repository contains the implementation of a custom email-sending applicatio
    ```bash
    npm install
    ```
-4. Set up environment variables:
-   - Create a `.env` file in the root directory.
-   - Add the following:
-     ```
-     REACT_APP_API_KEY=your-esp-api-key
-     REACT_APP_CLIENT_ID=your-oauth-client-id
-     REACT_APP_SECRET=your-oauth-client-secret
-     ```
-
-5. Start the development server:
+4. Start the development server:
    ```bash
    npm start
    ```
